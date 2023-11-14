@@ -93,6 +93,6 @@ The dataset has the following information:
 
 ## Sugesstions
 
-- In fact, the pima dataset is a good use case to develop a machine learning classification model to predict if the person has a diabetic or not.
+- In fact, the pima dataset is a good use case to build a machine learning classification model that predicts if the person is a diabetic or not.
 
   
