@@ -40,7 +40,7 @@ The dataset has the following information:
   * **pandas - numby** : used for data manipulation.
   * **matplotlib - seaborn** : used for data visualtion.
 
-## Approches & Methodologies
+## Approaches & Methodologies
 
 - Performed a quick overview about the dataset like the dataset shape , data types, detected any missing or duplicated values.
 
