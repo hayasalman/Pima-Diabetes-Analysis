@@ -38,7 +38,7 @@ The dataset has the following information:
    **Packeges used**
    
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
 
 ## Approaches & Methodologies
 
