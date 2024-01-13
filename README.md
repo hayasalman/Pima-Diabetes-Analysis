@@ -42,8 +42,5 @@ We need to set up our local environment to programming using python , here :
   * **matplotlib - seaborn** : used for data visualization.
 
 
-## Sugesstions
-
-- In fact, the pima dataset is a good use case to build a machine learning classification model that predicts if the person is a diabetic or not.
 
   
